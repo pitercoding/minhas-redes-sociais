@@ -31,15 +31,15 @@ A interface simula um smartphone com atalhos para acessar páginas como:
 ## 🚀 Como Usar
 
 1. Clone este repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/minhas-redes-sociais.git
-   ```
+```
+git clone https://github.com/seu-usuario/minhas-redes-sociais.git
+```
 2. Abra o arquivo `index.html` no navegador.
 
 3. Clique nos ícones laterais para navegar pelas redes sociais.
 
 ## 📁 Estrutura do Projeto
-
+```
 minhas-redes-sociais/
 ├── index.html
 ├── estilos/
@@ -53,6 +53,7 @@ minhas-redes-sociais/
 ├── github.html
 ├── linkedin.html
 └── ...
+```
 
 ## 🧠 Aprendizados
 
