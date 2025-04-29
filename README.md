@@ -2,6 +2,8 @@
 
 Este é um site simples desenvolvido apenas com **HTML5** e **CSS3**, que apresenta minhas principais redes sociais de forma interativa. O projeto foi criado durante o curso de **HTML e CSS** da empresa [Curso em Vídeo](https://www.cursoemvideo.com/).
 
+[Acesse o site aqui.](https://pitercoding.github.io/minhas-redes-sociais/)
+
 ## 🎯 Objetivo
 
 Praticar conceitos fundamentais de desenvolvimento web, como estruturação de páginas, navegação com `iframe`, centralização de elementos, efeitos visuais e layout responsivo.
